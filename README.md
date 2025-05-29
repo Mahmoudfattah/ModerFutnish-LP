@@ -2,8 +2,6 @@
 
 A sleek and responsive **furniture landing page** built with **Vite** and **Tailwind CSS**, designed to showcase modern furniture collections with elegance and simplicity.
 
-![![image](https://github.com/user-attachments/assets/9ab21fa4-9f7c-4cc1-96e1-42a81e561596)
-](./screenshot.png)
 
 ## 🚀 Live Demo
 
